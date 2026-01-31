@@ -5,7 +5,7 @@ This is a personal project focused on analyzing sales data using Power BI.
 ## Project Overview
 - Built an interactive sales dashboard
 - Analyzed sales performance and trends
-- Identified top products and cities
+- Identified top products 
 - Used filters, slicers, and Top N analysis
 
 ## Tools
